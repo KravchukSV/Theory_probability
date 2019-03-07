@@ -1,1 +1,1 @@
-# lab1
+# Theory_probability
